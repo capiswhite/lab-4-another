@@ -1,5 +1,5 @@
 package lab2;
-
+//change 1
 public class author {//初始化
 		private String authorid;
 		private String name;
