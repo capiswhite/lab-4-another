@@ -20,7 +20,7 @@ public class bookinformation extends HttpServlet {
 		doPost(request,response);
 	}
 
-
+        //change 1
 	public void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 
