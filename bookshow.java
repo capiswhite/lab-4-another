@@ -1,5 +1,5 @@
 ﻿package lab2;
-//change'
+//change
 import java.io.IOException;
 
 
